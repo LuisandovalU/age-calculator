@@ -1,0 +1,13 @@
+name: Prueba para Quickdraw
+description: Hola
+title: "Prueba para Quickdraw"
+labels: []
+body:
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comentario
+      description: Escribe tu comentario aquí
+      value: "Hola"
+    validations:
+      required: true
