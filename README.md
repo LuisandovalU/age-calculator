@@ -8,6 +8,7 @@ El objetivo de este proyecto es ayudarte a aprender a utilizar paquetes externos
 
 Se requiere desarrollar una calculadora de edad con las siguientes características:
 
+
 - Un formulario que permita a los usuarios introducir su fecha de nacimiento mediante un selector de fechas JavaScript (evite el selector de fechas HTML predeterminado)
 - Utilice la biblioteca [Luxon](https://www.npmjs.com/package/luxon) para calcular la edad exacta en años, meses y días
 - Muestre el resultado en la misma página después de que el usuario envíe el formulario
